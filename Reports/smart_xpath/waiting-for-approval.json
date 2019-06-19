@@ -1,0 +1,11 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": false,
+      "proposedXPath": "//div[@id\u003d\u0027root\u0027]/div/form/button",
+      "testObjectId": "Object Repository/Pengaturan/button_Masuk",
+      "brokenXPath": "(//button[@type\u003d\u0027submit\u0027])[2]",
+      "pathToScreenshot": "D:/Investasi Kita/save_project/investasikita/Reports/smart_xpath/Object Repository/Pengaturan/button_Masuk_idRelative.png"
+    }
+  ]
+}

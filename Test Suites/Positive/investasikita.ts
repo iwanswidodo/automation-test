@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>investasikita</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>4afadebd-88b0-411c-bbfa-5baca66c1651</testSuiteGuid>
+   <testCaseLink>
+      <guid>40dc71e3-1db2-4548-bcd1-3ec1e77763ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Positive/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>28671b04-fd92-4b43-a79f-a1ffa2c57d6a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginInvestasiKita</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>28671b04-fd92-4b43-a79f-a1ffa2c57d6a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>9ff83ebe-d281-4215-b73a-b1731b2cd473</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>28671b04-fd92-4b43-a79f-a1ffa2c57d6a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>fc4932fb-364a-4b88-9fbd-fc2410d9158a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

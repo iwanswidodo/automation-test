@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-20T13:39:21</date>
+  <millis>1558355961800</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/test register</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">test register</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/test register</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:21</date>
+  <millis>1558355961822</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = 0265 - DESKTOP-ITRALPB</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">0265 - DESKTOP-ITRALPB</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:21</date>
+  <millis>1558355961825</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:21</date>
+  <millis>1558355961826</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.2.125</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">192.168.2.125</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:21</date>
+  <millis>1558355961832</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.1.5.3</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.1.5.3</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962184</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Positive/registrasi1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Positive/registrasi1</property>
+  <property name="source">D:\\Investasi Kita\\save_project\\investasikita\\Test Cases\\Positive\\registrasi1.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962288</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>email = testiwan123@gmail.com</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962291</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_email = testiwan123@gmail.com</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962304</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>password = Iwan1234</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962304</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_password = Iwan1234</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962306</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_sesuai_identitas = iwan suryo widodo</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962306</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_ponsel = 85736666637</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962307</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_nomor_ponsel = 85736666637</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962309</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>darimana_anda_mengenal_kita = web</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962312</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>masukkan_bank = bank bca</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962312</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cabang = malang</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962315</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_rekening = 5455051107</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:22</date>
+  <millis>1558355962316</millis>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_nasabah = iwan suryo widodo</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963252</millis>
+  <sequence>20</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Positive/registrasi1 FAILED.\nReason:\norg.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&amp;quot;imageIdentityTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&amp;quot;imageSelfieTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&amp;quot;education\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&amp;quot;income\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&amp;quot;sourceFund\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&amp;quot;investmentObjective\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;data-lainnya&amp;apos;]/div[5]/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingTwo&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingThree&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingOne&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&amp;quot;signature\&amp;quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;root&amp;apos;]/div[2]/form/section/div[2]/div/label\&amp;quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</message>
+  <exception>
+    <message>org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver
+ @ line 153, column 11.
+   WebDriver driver = new FirefoxDriver();
+             ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem
+ @ line 169, column 12.
+   WebElement elem = driver.findElement(By.name("imageIdentityTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1
+ @ line 171, column 12.
+   WebElement elem1 = driver.findElement(By.name("imageSelfieTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation
+ @ line 179, column 8.
+   Select drpeducation = new Select(driver.findElement(By.name("education")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome
+ @ line 181, column 8.
+   Select drpincome = new Select(driver.findElement(By.name("income")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF
+ @ line 183, column 8.
+   Select drpSOF = new Select(driver.findElement(By.name("sourceFund")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective
+ @ line 185, column 8.
+   Select drpinvestmentObjective = new Select(driver.findElement(By.name("investmentObjective")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd
+ @ line 187, column 12.
+   WebElement chkgrncrd = driver.findElement(By.xpath("//div[@id='data-lainnya']/div[5]/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2
+ @ line 193, column 12.
+   WebElement option2 = driver.findElement(By.xpath("//div[@id='headingTwo']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3
+ @ line 207, column 12.
+   WebElement option3 = driver.findElement(By.xpath("//div[@id='headingThree']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1
+ @ line 219, column 12.
+   WebElement option1 = driver.findElement(By.xpath("//div[@id='headingOne']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element
+ @ line 245, column 12.
+   WebElement element = driver.findElement(By.className("signature")); // where your canvas element is
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder
+ @ line 247, column 10.
+   	Actions builder = new Actions(driver);
+            ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction
+ @ line 248, column 9.
+   	Action drawAction = builder.moveToElement(element,50,50)  // start point
+           ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond
+ @ line 257, column 12.
+   WebElement chkTermcond = driver.findElement(By.xpath("//div[@id='root']/div[2]/form/section/div[2]/div/label"));
+              ^
+
+15 errors
+</message>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>getScript</method>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>133</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>116</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>83</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1558355959016</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</property>
+  <property name="failed.exception.class">org.codehaus.groovy.control.MultipleCompilationErrorsException</property>
+  <property name="failed.exception.message">startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963289</millis>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963290</millis>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>=================== Smart XPath Report =======================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963291</millis>
+  <sequence>24</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Refer to the link below to preview and approve auto healing on broken test objects.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963292</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>https://docs.katalon.com/katalon-studio/docs/auto-healing-smart-xpath.html</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963292</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>===============================================================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963322</millis>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Positive/registrasi1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Positive/registrasi1</property>
+  <property name="source">D:\\Investasi Kita\\save_project\\investasikita\\Test Cases\\Positive\\registrasi1.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963453</millis>
+  <sequence>29</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>email = cobadata@gmail.com</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963455</millis>
+  <sequence>30</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_email = cobadata@gmail.com</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963456</millis>
+  <sequence>31</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>password = Iwan1235</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963458</millis>
+  <sequence>32</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_password = Iwan1234</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963459</millis>
+  <sequence>33</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_sesuai_identitas = iwan suryo widodo</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963461</millis>
+  <sequence>34</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_ponsel = 85736666637</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963463</millis>
+  <sequence>35</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_nomor_ponsel = 85736666637</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963465</millis>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>darimana_anda_mengenal_kita = instagram</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963466</millis>
+  <sequence>37</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>masukkan_bank = anz</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963467</millis>
+  <sequence>38</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cabang = surabaya</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963468</millis>
+  <sequence>39</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_rekening = 5455051107</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963469</millis>
+  <sequence>40</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_nasabah = iwan suryo widodo</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963982</millis>
+  <sequence>42</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Positive/registrasi1 FAILED.\nReason:\norg.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&amp;quot;imageIdentityTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&amp;quot;imageSelfieTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&amp;quot;education\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&amp;quot;income\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&amp;quot;sourceFund\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&amp;quot;investmentObjective\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;data-lainnya&amp;apos;]/div[5]/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingTwo&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingThree&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingOne&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&amp;quot;signature\&amp;quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;root&amp;apos;]/div[2]/form/section/div[2]/div/label\&amp;quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</message>
+  <exception>
+    <message>org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver
+ @ line 153, column 11.
+   WebDriver driver = new FirefoxDriver();
+             ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem
+ @ line 169, column 12.
+   WebElement elem = driver.findElement(By.name("imageIdentityTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1
+ @ line 171, column 12.
+   WebElement elem1 = driver.findElement(By.name("imageSelfieTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation
+ @ line 179, column 8.
+   Select drpeducation = new Select(driver.findElement(By.name("education")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome
+ @ line 181, column 8.
+   Select drpincome = new Select(driver.findElement(By.name("income")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF
+ @ line 183, column 8.
+   Select drpSOF = new Select(driver.findElement(By.name("sourceFund")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective
+ @ line 185, column 8.
+   Select drpinvestmentObjective = new Select(driver.findElement(By.name("investmentObjective")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd
+ @ line 187, column 12.
+   WebElement chkgrncrd = driver.findElement(By.xpath("//div[@id='data-lainnya']/div[5]/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2
+ @ line 193, column 12.
+   WebElement option2 = driver.findElement(By.xpath("//div[@id='headingTwo']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3
+ @ line 207, column 12.
+   WebElement option3 = driver.findElement(By.xpath("//div[@id='headingThree']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1
+ @ line 219, column 12.
+   WebElement option1 = driver.findElement(By.xpath("//div[@id='headingOne']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element
+ @ line 245, column 12.
+   WebElement element = driver.findElement(By.className("signature")); // where your canvas element is
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder
+ @ line 247, column 10.
+   	Actions builder = new Actions(driver);
+            ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction
+ @ line 248, column 9.
+   	Action drawAction = builder.moveToElement(element,50,50)  // start point
+           ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond
+ @ line 257, column 12.
+   WebElement chkTermcond = driver.findElement(By.xpath("//div[@id='root']/div[2]/form/section/div[2]/div/label"));
+              ^
+
+15 errors
+</message>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>getScript</method>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>133</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>116</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>83</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1558355959016</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</property>
+  <property name="failed.exception.class">org.codehaus.groovy.control.MultipleCompilationErrorsException</property>
+  <property name="failed.exception.message">startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963999</millis>
+  <sequence>44</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:23</date>
+  <millis>1558355963999</millis>
+  <sequence>45</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>=================== Smart XPath Report =======================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964002</millis>
+  <sequence>46</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Refer to the link below to preview and approve auto healing on broken test objects.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964003</millis>
+  <sequence>47</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>https://docs.katalon.com/katalon-studio/docs/auto-healing-smart-xpath.html</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964004</millis>
+  <sequence>48</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>===============================================================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964031</millis>
+  <sequence>49</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Positive/registrasi1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Positive/registrasi1</property>
+  <property name="source">D:\\Investasi Kita\\save_project\\investasikita\\Test Cases\\Positive\\registrasi1.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964099</millis>
+  <sequence>51</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>email = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964099</millis>
+  <sequence>52</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_email = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964101</millis>
+  <sequence>53</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>password = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964102</millis>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_password = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964102</millis>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_sesuai_identitas = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964103</millis>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_ponsel = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964104</millis>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_nomor_ponsel = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964105</millis>
+  <sequence>58</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>darimana_anda_mengenal_kita = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964105</millis>
+  <sequence>59</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>masukkan_bank = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964106</millis>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cabang = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964106</millis>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_rekening = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964107</millis>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_nasabah = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964592</millis>
+  <sequence>64</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Positive/registrasi1 FAILED.\nReason:\norg.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&amp;quot;imageIdentityTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&amp;quot;imageSelfieTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&amp;quot;education\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&amp;quot;income\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&amp;quot;sourceFund\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&amp;quot;investmentObjective\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;data-lainnya&amp;apos;]/div[5]/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingTwo&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingThree&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingOne&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&amp;quot;signature\&amp;quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;root&amp;apos;]/div[2]/form/section/div[2]/div/label\&amp;quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</message>
+  <exception>
+    <message>org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver
+ @ line 153, column 11.
+   WebDriver driver = new FirefoxDriver();
+             ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem
+ @ line 169, column 12.
+   WebElement elem = driver.findElement(By.name("imageIdentityTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1
+ @ line 171, column 12.
+   WebElement elem1 = driver.findElement(By.name("imageSelfieTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation
+ @ line 179, column 8.
+   Select drpeducation = new Select(driver.findElement(By.name("education")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome
+ @ line 181, column 8.
+   Select drpincome = new Select(driver.findElement(By.name("income")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF
+ @ line 183, column 8.
+   Select drpSOF = new Select(driver.findElement(By.name("sourceFund")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective
+ @ line 185, column 8.
+   Select drpinvestmentObjective = new Select(driver.findElement(By.name("investmentObjective")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd
+ @ line 187, column 12.
+   WebElement chkgrncrd = driver.findElement(By.xpath("//div[@id='data-lainnya']/div[5]/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2
+ @ line 193, column 12.
+   WebElement option2 = driver.findElement(By.xpath("//div[@id='headingTwo']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3
+ @ line 207, column 12.
+   WebElement option3 = driver.findElement(By.xpath("//div[@id='headingThree']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1
+ @ line 219, column 12.
+   WebElement option1 = driver.findElement(By.xpath("//div[@id='headingOne']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element
+ @ line 245, column 12.
+   WebElement element = driver.findElement(By.className("signature")); // where your canvas element is
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder
+ @ line 247, column 10.
+   	Actions builder = new Actions(driver);
+            ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction
+ @ line 248, column 9.
+   	Action drawAction = builder.moveToElement(element,50,50)  // start point
+           ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond
+ @ line 257, column 12.
+   WebElement chkTermcond = driver.findElement(By.xpath("//div[@id='root']/div[2]/form/section/div[2]/div/label"));
+              ^
+
+15 errors
+</message>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>getScript</method>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>133</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>116</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>83</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1558355959016</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</property>
+  <property name="failed.exception.class">org.codehaus.groovy.control.MultipleCompilationErrorsException</property>
+  <property name="failed.exception.message">startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964608</millis>
+  <sequence>66</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964609</millis>
+  <sequence>67</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>=================== Smart XPath Report =======================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964609</millis>
+  <sequence>68</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Refer to the link below to preview and approve auto healing on broken test objects.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964616</millis>
+  <sequence>69</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>https://docs.katalon.com/katalon-studio/docs/auto-healing-smart-xpath.html</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964618</millis>
+  <sequence>70</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>===============================================================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964660</millis>
+  <sequence>71</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/Positive/registrasi1</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/Positive/registrasi1</property>
+  <property name="source">D:\\Investasi Kita\\save_project\\investasikita\\Test Cases\\Positive\\registrasi1.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964707</millis>
+  <sequence>73</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>email = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964712</millis>
+  <sequence>74</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_email = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964713</millis>
+  <sequence>75</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>password = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964714</millis>
+  <sequence>76</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_password = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964714</millis>
+  <sequence>77</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_sesuai_identitas = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964716</millis>
+  <sequence>78</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_ponsel = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964731</millis>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>tulis_ulang_nomor_ponsel = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964732</millis>
+  <sequence>80</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>darimana_anda_mengenal_kita = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964732</millis>
+  <sequence>81</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>masukkan_bank = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964733</millis>
+  <sequence>82</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>cabang = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964733</millis>
+  <sequence>83</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nomor_rekening = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:24</date>
+  <millis>1558355964734</millis>
+  <sequence>84</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>nama_nasabah = </message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965156</millis>
+  <sequence>86</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Positive/registrasi1 FAILED.\nReason:\norg.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&amp;quot;imageIdentityTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&amp;quot;imageSelfieTemp\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&amp;quot;education\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&amp;quot;income\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&amp;quot;sourceFund\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&amp;quot;investmentObjective\&amp;quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;data-lainnya&amp;apos;]/div[5]/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingTwo&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingThree&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;headingOne&amp;apos;]/div/label\&amp;quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&amp;quot;signature\&amp;quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&amp;quot;//div[@id=&amp;apos;root&amp;apos;]/div[2]/form/section/div[2]/div/label\&amp;quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</message>
+  <exception>
+    <message>org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver
+ @ line 153, column 11.
+   WebDriver driver = new FirefoxDriver();
+             ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem
+ @ line 169, column 12.
+   WebElement elem = driver.findElement(By.name("imageIdentityTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1
+ @ line 171, column 12.
+   WebElement elem1 = driver.findElement(By.name("imageSelfieTemp"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation
+ @ line 179, column 8.
+   Select drpeducation = new Select(driver.findElement(By.name("education")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome
+ @ line 181, column 8.
+   Select drpincome = new Select(driver.findElement(By.name("income")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF
+ @ line 183, column 8.
+   Select drpSOF = new Select(driver.findElement(By.name("sourceFund")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective
+ @ line 185, column 8.
+   Select drpinvestmentObjective = new Select(driver.findElement(By.name("investmentObjective")));
+          ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd
+ @ line 187, column 12.
+   WebElement chkgrncrd = driver.findElement(By.xpath("//div[@id='data-lainnya']/div[5]/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2
+ @ line 193, column 12.
+   WebElement option2 = driver.findElement(By.xpath("//div[@id='headingTwo']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3
+ @ line 207, column 12.
+   WebElement option3 = driver.findElement(By.xpath("//div[@id='headingThree']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1
+ @ line 219, column 12.
+   WebElement option1 = driver.findElement(By.xpath("//div[@id='headingOne']/div/label"));
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element
+ @ line 245, column 12.
+   WebElement element = driver.findElement(By.className("signature")); // where your canvas element is
+              ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder
+ @ line 247, column 10.
+   	Actions builder = new Actions(driver);
+            ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction
+ @ line 248, column 9.
+   	Action drawAction = builder.moveToElement(element,50,50)  // start point
+           ^
+
+file:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond
+ @ line 257, column 12.
+   WebElement chkTermcond = driver.findElement(By.xpath("//div[@id='root']/div[2]/form/section/div[2]/div/label"));
+              ^
+
+15 errors
+</message>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>getScript</method>
+      <line>199</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>337</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>328</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>307</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>299</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>233</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>133</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>116</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>83</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>157</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain$startTestSuite$0</class>
+      <method>call</method>
+    </frame>
+    <frame>
+      <class>TempTestSuite1558355959016</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <property name="failed.exception.stacktrace">org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n\r\n\tat com.kms.katalon.core.main.ScriptEngine.getScript(ScriptEngine.java:199)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:133)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:116)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:83)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1558355959016.run(TempTestSuite1558355959016.groovy:35)\r\n</property>
+  <property name="failed.exception.class">org.codehaus.groovy.control.MultipleCompilationErrorsException</property>
+  <property name="failed.exception.message">startup failed:\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 153: The current scope already contains a variable of the name driver\n @ line 153, column 11.\r\n   WebDriver driver = new FirefoxDriver();\r\n             ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 169: The current scope already contains a variable of the name elem\n @ line 169, column 12.\r\n   WebElement elem = driver.findElement(By.name(\&quot;imageIdentityTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 171: The current scope already contains a variable of the name elem1\n @ line 171, column 12.\r\n   WebElement elem1 = driver.findElement(By.name(\&quot;imageSelfieTemp\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 179: The current scope already contains a variable of the name drpeducation\n @ line 179, column 8.\r\n   Select drpeducation = new Select(driver.findElement(By.name(\&quot;education\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 181: The current scope already contains a variable of the name drpincome\n @ line 181, column 8.\r\n   Select drpincome = new Select(driver.findElement(By.name(\&quot;income\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 183: The current scope already contains a variable of the name drpSOF\n @ line 183, column 8.\r\n   Select drpSOF = new Select(driver.findElement(By.name(\&quot;sourceFund\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 185: The current scope already contains a variable of the name drpinvestmentObjective\n @ line 185, column 8.\r\n   Select drpinvestmentObjective = new Select(driver.findElement(By.name(\&quot;investmentObjective\&quot;)));\r\n          ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 187: The current scope already contains a variable of the name chkgrncrd\n @ line 187, column 12.\r\n   WebElement chkgrncrd = driver.findElement(By.xpath(\&quot;//div[@id=&apos;data-lainnya&apos;]/div[5]/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 193: The current scope already contains a variable of the name option2\n @ line 193, column 12.\r\n   WebElement option2 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingTwo&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 207: The current scope already contains a variable of the name option3\n @ line 207, column 12.\r\n   WebElement option3 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingThree&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 219: The current scope already contains a variable of the name option1\n @ line 219, column 12.\r\n   WebElement option1 = driver.findElement(By.xpath(\&quot;//div[@id=&apos;headingOne&apos;]/div/label\&quot;));\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 245: The current scope already contains a variable of the name element\n @ line 245, column 12.\r\n   WebElement element = driver.findElement(By.className(\&quot;signature\&quot;)); // where your canvas element is\r\n              ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 247: The current scope already contains a variable of the name builder\n @ line 247, column 10.\r\n   \tActions builder = new Actions(driver);\r\n            ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 248: The current scope already contains a variable of the name drawAction\n @ line 248, column 9.\r\n   \tAction drawAction = builder.moveToElement(element,50,50)  // start point\r\n           ^\r\n\r\nfile:/D:/Investasi%20Kita/save_project/investasikita/Scripts/Positive/registrasi1/Script1558094583835.groovy: 257: The current scope already contains a variable of the name chkTermcond\n @ line 257, column 12.\r\n   WebElement chkTermcond = driver.findElement(By.xpath(\&quot;//div[@id=&apos;root&apos;]/div[2]/form/section/div[2]/div/label\&quot;));\r\n              ^\r\n\r\n15 errors\r\n</property>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965174</millis>
+  <sequence>88</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Positive/registrasi1</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965174</millis>
+  <sequence>89</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>=================== Smart XPath Report =======================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965175</millis>
+  <sequence>90</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Refer to the link below to preview and approve auto healing on broken test objects.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965176</millis>
+  <sequence>91</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>https://docs.katalon.com/katalon-studio/docs/auto-healing-smart-xpath.html</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965176</millis>
+  <sequence>92</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>===============================================================</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2019-05-20T13:39:25</date>
+  <millis>1558355965243</millis>
+  <sequence>93</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/test register</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>

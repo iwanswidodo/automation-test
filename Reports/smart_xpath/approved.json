@@ -1,0 +1,39 @@
+{
+  "brokenTestObjects" : [ {
+    "approved" : true,
+    "proposedXPath" : "(.//*[normalize-space(text()) and normalize-space(.)=concat('Hallow, how are you. if you need our help don', \"'\", 't hesitate to chat with us')])[1]/following::input[1]",
+    "testObjectId" : "Object Repository/Login(Positve)/input__username",
+    "brokenXPath" : "//input[@id='login-email']",
+    "pathToScreenshot" : "D:/Investasi Kita/save_project/investasikita/Reports/smart_xpath/Object Repository/Login(Positve)/input__username_neighbor_0.png"
+  }, {
+    "approved" : true,
+    "proposedXPath" : "(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::a[1]",
+    "testObjectId" : "Object Repository/transaksi/a_Login",
+    "brokenXPath" : "//div[@id='root']/div/header[2]/div/div/div/div/a",
+    "pathToScreenshot" : ""
+  }, {
+    "approved" : true,
+    "proposedXPath" : "(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::a[1]",
+    "testObjectId" : "Object Repository/transaksi(add to cart)/a_Login",
+    "brokenXPath" : "//div[@id='root']/div/header[2]/div/div/div/div/a",
+    "pathToScreenshot" : ""
+  }, {
+    "approved" : true,
+    "proposedXPath" : "//p/a",
+    "testObjectId" : "Object Repository/a_Daftar (1)",
+    "brokenXPath" : "//div[@id='root']/div/div[2]/p/a",
+    "pathToScreenshot" : ""
+  }, {
+    "approved" : true,
+    "proposedXPath" : "//button[@id='userMenu']",
+    "testObjectId" : "Object Repository/Login(Positve)/button_Keluar_userMenu",
+    "brokenXPath" : "",
+    "pathToScreenshot" : "D:/Investasi Kita/save_project/investasikita/Reports/smart_xpath/Object Repository/Login(Positve)/button_Keluar_userMenu_attributes.png"
+  }, {
+    "approved" : true,
+    "proposedXPath" : "(.//*[normalize-space(text()) and normalize-space(.)=concat('Hallow, how are you. if you need our help don', \"'\", 't hesitate to chat with us')])[1]/following::input[1]",
+    "testObjectId" : "Object Repository/Login(Positve)/input__username",
+    "brokenXPath" : "//input[@id='login-email']",
+    "pathToScreenshot" : "D:/Investasi Kita/save_project/investasikita/Reports/smart_xpath/Object Repository/Login(Positve)/input__username_neighbor_1.png"
+  } ]
+}
