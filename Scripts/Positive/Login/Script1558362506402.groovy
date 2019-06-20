@@ -37,7 +37,11 @@ import java.util.concurrent.ThreadLocalRandom;
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://192.168.2.200:8083");
 		driver.manage().window().maximize();
-		driver.findElement(By.xpath("//a[contains(text(),'Login')]")).click();
+		WebElement element= driver.findElement(By.xpath("//a[contains(text(),'Login')]"));
+		WebDriverWait wait = new WebDriverWait(driver, 40); //here, wait time is 20 seconds
+		wait.until(ExpectedConditions.visibilityOf(element)); //this will wait for elememt to be visible for 20 seconds
+		element.click(); 
+//		driver.findElement(By.xpath("")).click();
 		Thread.sleep(5000);
 		driver.findElement(By.id("login-email")).sendKeys("litatest123@gmail.com");
 		driver.findElement(By.id("login-password")).sendKeys("Kalel1234");
